@@ -3,7 +3,7 @@ name = "cloudflare-ab-test"
 type = "javascript"
 workers_dev = true
 account_id = "REDACTED"
-route = "ptrlaszlo.com/abtest*"
+route = "https://philgood.com.br/testeab1/"
 zone_id = "REDACTED"
 compatibility_date = "2021-09-23"
 
